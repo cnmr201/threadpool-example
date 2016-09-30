@@ -1,4 +1,5 @@
 public class Job implements Runnable {
+    // Test class for threadpool-example
     private int jobNumber;
     
     Job (int jobNumber) {
